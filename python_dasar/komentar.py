@@ -8,6 +8,8 @@
 
 print("Hello World") #ini juga komentar
 
+#print("Welcome")
+
 # komentar bisa berisi spesial karakter !@#$%^&*(),./;'[]\
 
 #mencetak nama
