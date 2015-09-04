@@ -1,10 +1,4 @@
-Penjumlahan+	1 + 3 = 4	Menjumlahkan nilai dari masing-masing operan atau bilangan
-Pengurangan -	4 - 1 = 3	Mengurangi nilai operan di sebelah kiri menggunakan operan di sebelah kanan
-Perkalian *	2 * 4 = 8	Mengalikan operan/bilangan
-Pembagian /	10 / 5 = 2	Untuk membagi operan di sebelah kiri menggunakan operan di sebelah kanan
-Sisa Bagi%	11 % 2 = 1	Mendapatkan sisa pembagian dari operan di sebelah kiri operator ketika dibagi oleh operan di sebelah kanan
-Pangkat **	8 ** 2 = 64	Memangkatkan operan disebelah kiri operator dengan operan di sebelah kanan operator
-Pembagian Bulat //	10 // 3 = 3	Sama seperti pembagian. Hanya saja angka dibelakang koma dihilangkan
+#file /operator.py
 
 #OPERATOR ARITMATIKA
 
@@ -15,3 +9,31 @@ buah = apel + jeruk #
 print(buah)
 
 #Pengurangan
+hutang = 10000
+bayar = 5000
+sisaHutang = hutang - bayar
+print("Sisa hutang Anda adalah ", sisaHutang)
+
+#Perkalian
+panjang = 15
+lebar = 8
+luas = panjang * lebar
+print(luas)
+
+#Pembagian
+kue = 16
+anak = 4
+kuePerAnak = kue / anak
+print("Setiap anak akan mendapatkan bagian kue sebanyak ", kuePerAnak)
+
+#Sisa Bagi / Modulus
+bilangan1 = 14
+bilangan2 = 5
+hasil = bilangan1 % bilangan2
+print("Sisa bagi dari bilangan ", bilangan1, " dan ", bilangan2, " adalah ", hasil)
+
+#Pangkat
+bilangan3 = 
+
+
+
