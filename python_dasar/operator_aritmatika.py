@@ -1,4 +1,4 @@
-#file /operator.py
+#file /python_dasar/operator_aritmatika.py
 
 #OPERATOR ARITMATIKA
 
