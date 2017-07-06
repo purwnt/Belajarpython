@@ -3,7 +3,7 @@
 </div>
 -----------------
 
-**Python** adalah bahasa pemrograman interpretatif multiguna. Tidak seperti bahasa lain yang susah untuk dibaca dan dipahami, python lebih menekankan pada keterbacaan kode agar lebih mudah untuk memahami sintaks. Hal ini membuat Python sangat mudah dipelajari baik untuk pemula maupun untuk yang sudah menguasai bahasa pemrograman lain.
+**Belajarpython** adalah situs tutorial pemrograman Python bahasa Indonesia. sedangkan Python sendiri adalah bahasa pemrograman interpretatif multiguna. Tidak seperti bahasa lain yang susah untuk dibaca dan dipahami, python lebih menekankan pada keterbacaan kode agar lebih mudah untuk memahami sintaks. Hal ini membuat Python sangat mudah dipelajari baik untuk pemula maupun untuk yang sudah menguasai bahasa pemrograman lain.
 
 Pada tutorial ini Anda akan mempelajari dasar pemrograman bahasa Python.
 
@@ -14,10 +14,10 @@ Pada tutorial ini Anda akan mempelajari dasar pemrograman bahasa Python.
 Dibawah ini adalah syllabus tutorial Python :
 
  **Pendahuluan**
-* [asdfsdf](http://www.belajarpython.com/#memulai-python)
-* [asdfsdf](http://www.belajarpython.com/2015/05/instalasi-python.html)
-* [asdfsdf](http://www.belajarpython.com/2015/05/menjalankan-python.html)
-* [asdfsdf](http://www.belajarpython.com/2015/05/integrated-development-environment-ide.html)
+* [Memulai Python](http://www.belajarpython.com/#memulai-python)
+* [Instalasi Python](http://www.belajarpython.com/2015/05/instalasi-python.html)
+* [Menjalankan Python](http://www.belajarpython.com/2015/05/menjalankan-python.html)
+* [IDE Python](http://www.belajarpython.com/2015/05/integrated-development-environment-ide.html)
 
 **Python Dasar**
 * [Hello World Python](http://www.belajarpython.com/2015/05/hello-world-python.html)
